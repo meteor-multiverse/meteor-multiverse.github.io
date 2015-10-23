@@ -1,2 +1,45 @@
+###############################
+#   Site Variables - Custom   #
+###############################
+
+# When deployed to a custom domain (e.g. meteormultiverse.org)
+#url:     "http://meteormultiverse.org"
+#baseurl: ""
+
+# When deployed to GitHub Pages
+url:     "http://edspring.github.io"
+baseurl: "/meteor-multiverse"
+
+# When running locally in development mode
+#url:     "http://localhost:4000"
+#baseurl: ""
+
+
+# Website main/base title
+title: Meteor Multiverse
+
+# Website content description
+# NOTE: The `>` on the following line means to ignore newlines until the next variable key
+description: >
+  An open source alternative to Meteor Galaxy, allowing you to self-host and
+  auto-scale your own Meteor environments on Amazon AWS.
+
+# Root URL for editing pages on GitHub (leave the trailing slash intact!)
+githubEdit: https://github.com/edSpring/meteor-multiverse/edit/gh-pages/
+
+# Google Analytics Tracking ID
+google_analytics_id: UA-69056832-1
+
+owner_url:     http://greene.io
+publisher_url: http://ties.k12.mn.us
+
+
+
+####################################################
+#   Standard Jekyll build configuration settings   #
+####################################################
+
+timezone: America/Chicago
+markdown: rdiscount
 highlighter: pygments
-github: https://github.com/edSpring/meteor-multiverse
+permalink: pretty

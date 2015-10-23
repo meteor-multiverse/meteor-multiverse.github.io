@@ -1,0 +1,45 @@
+/* Overriding styles from the GitHub Pages Cayman theme */
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 3rem 6rem;
+  }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header {
+    padding: 2rem 4rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: 2rem 1rem;
+  }
+}
+
+
+
+/* New styles */
+
+@media screen and (min-width: 64em) {
+  .project-tagline {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .project-tagline {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .project-tagline {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+}
