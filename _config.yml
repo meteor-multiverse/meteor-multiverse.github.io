@@ -3,16 +3,16 @@
 ###############################
 
 # When deployed to a custom domain (e.g. meteormultiverse.org)
-#url:     "http://meteormultiverse.org"
-#baseurl: ""
+#url:     http://meteormultiverse.org
+#baseurl:
 
 # When deployed to GitHub Pages
-url:     "http://edspring.github.io"
-baseurl: "/meteor-multiverse"
+url:     http://edspring.github.io
+baseurl: /meteor-multiverse
 
 # When running locally in development mode
-#url:     "http://localhost:4000"
-#baseurl: ""
+#url:     http://localhost:4000
+#baseurl:
 
 
 # Website main/base title
@@ -40,6 +40,15 @@ publisher_url: http://ties.k12.mn.us
 ####################################################
 
 timezone: America/Chicago
-markdown: rdiscount
-highlighter: pygments
 permalink: pretty
+highlighter: pygments
+markdown: kramdown
+
+
+
+#######################################
+#   Kramdown configuration settings   #
+#######################################
+
+kramdown:
+  input: GFM
