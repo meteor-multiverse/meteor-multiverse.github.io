@@ -43,6 +43,12 @@ You can build and serve the site by executing the following command:
 bundle exec jekyll serve
 ```
 
+Optionally, if you want Jekyll to monitor your pages' source files and automatically rebuild them on the fly if they change, you can add the `--watch` flag:
+
+```shell
+bundle exec jekyll serve --watch
+```
+
 
 
 ## More Information
