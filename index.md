@@ -1,7 +1,8 @@
 ---
 layout:      default
-permalink:   /index.html
+permalink:   /
+title:       Home
 ---
 
 
-Home Page Content Goes Here!?!?!?
+Home Page &mdash; _Content Goes Here!_
