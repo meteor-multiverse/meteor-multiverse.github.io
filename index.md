@@ -5,4 +5,4 @@ title:       Home
 ---
 
 
-Home Page &mdash; _Content Goes Here!_
+Home Page &mdash; _Content Goes Here!_ :metal:

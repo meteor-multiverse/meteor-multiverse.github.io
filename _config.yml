@@ -52,3 +52,11 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+
+######################################
+#   Enable GitHub Emojis in Jekyll   #
+######################################
+
+gems:
+  - jemoji
