@@ -7,16 +7,16 @@
 #baseurl:
 
 # When deployed to GitHub Organization Pages
-#url:     http://meteor-multiverse.github.io
-#baseurl:
+url:     http://meteor-multiverse.github.io
+baseurl:
 
 # When deployed to GitHub Project Pages
 #url:     http://meteor-multiverse.github.io
 #baseurl: /meteormultiverse.org
 
 # When running locally in development mode
-url:     http://localhost:4000
-baseurl:
+#url:     http://localhost:4000
+#baseurl:
 
 
 # Website main/base title
