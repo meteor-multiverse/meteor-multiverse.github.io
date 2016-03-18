@@ -6,13 +6,17 @@
 #url:     http://meteormultiverse.org
 #baseurl:
 
-# When deployed to GitHub Pages
-url:     http://edspring.github.io
-baseurl: /meteor-multiverse
+# When deployed to GitHub Organization Pages
+#url:     http://meteor-multiverse.github.io
+#baseurl:
+
+# When deployed to GitHub Project Pages
+#url:     http://meteor-multiverse.github.io
+#baseurl: /meteormultiverse.org
 
 # When running locally in development mode
-#url:     http://localhost:4000
-#baseurl:
+url:     http://localhost:4000
+baseurl:
 
 
 # Website main/base title
@@ -25,13 +29,13 @@ description: >
   auto-scale your own Meteor environments on Amazon AWS.
 
 # Root URL for editing pages on GitHub (leave the trailing slash intact!)
-githubEdit: https://github.com/edSpring/meteor-multiverse/edit/gh-pages/
+githubEdit: https://github.com/meteor-multiverse/meteor-multiverse.github.io/edit/gh-pages/
 
 # Google Analytics Tracking ID
-google_analytics_id: UA-69056832-1
+google_analytics_id: UA-21133140-12
 
 owner_url:     http://greene.io
-publisher_url: http://ties.k12.mn.us
+publisher_url: http://greene.io
 
 
 

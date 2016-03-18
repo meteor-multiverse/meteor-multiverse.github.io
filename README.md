@@ -6,7 +6,7 @@
 
 <!--- RESOURCE LINKS -->
 
-[Meteor Multiverse]: http://meteormultiverse.org/
+[Meteor Multiverse]: http://meteor-multiverse.github.io/
 [Meteor]: https://www.meteor.com/
 [Meteor Galaxy]: https://www.meteor.com/galaxy
 [AWS OpsWorks]: http://aws.amazon.com/opsworks/
